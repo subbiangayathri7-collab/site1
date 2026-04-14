@@ -12,7 +12,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install dependencues
+      - name: Install dependencies
         run: echo "No installing required"
 
       - name: Build Site
